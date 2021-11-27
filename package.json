@@ -1,0 +1,20 @@
+{
+  "name": "NyahBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "canvas": "^2.6.1",
+    "discord.js": "^12.4.1",
+    "express": "^4.17.1",
+    "index.js": "0.0.3",
+    "mongodb": "^3.6.3"
+  }
+}
